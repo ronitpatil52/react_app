@@ -1,0 +1,168 @@
+.back_login
+{
+  /* --height:730px-- ;
+  width: 1530px; */
+  /* --background-position: left center;-- */
+   height: 100vh; 
+  /* --background-position: left center; --*/
+   background-repeat: no-repeat; 
+   background-size: 100% 100%;  
+
+
+ } 
+
+.box_login
+{
+  width:530px;
+  height:418px;
+  border-radius: 20px;
+  margin-top:10px;
+  box-shadow: 2px 6px 24px rgb(0, 24, 26);
+  background-color: #fff;
+  float:right;
+  margin-right:100px;
+}
+
+.radio_login
+{
+  font: normal normal normal Roboto;
+  font-size: 18px;
+  font-weight: 700;
+  margin-top: 60px;
+  margin-left: 75px ;
+  color:#063855;
+  margin-bottom: 20px;
+  
+}
+
+.radio_login:hover
+{
+  cursor: pointer;
+}
+
+
+.radio2
+{
+  margin-left: 20px;
+}
+.form1_login                      
+{
+  padding-top:0px;
+  padding-left: 15px;
+  padding-bottom:0px ;
+}
+
+.input-group1_login
+{
+  padding-right: 20px;
+  padding-bottom: 20px;
+}
+
+.input-group1_login input
+{
+  border-radius: 6px;
+  padding-left:18px;
+  padding-top:5px;
+  padding-bottom: 5px;
+  width: 350px;
+  height: 22px;
+  border-color: #0000001F;
+  color:#00000099;
+  text-align: left;
+  font: normal normal normal Roboto; 
+  letter-spacing: 0.15px;
+  opacity: 1;
+}
+
+.input1_login
+{
+  margin-left: 60px;
+  margin-right: 20px;
+}
+
+
+.submit_login
+{
+  width:215px;
+  height:40px;
+  background-image: linear-gradient(#069BFF,#004A7C );
+  border-radius: 20px;
+  margin-left:142px;
+  margin-top: 40px;
+  color:#fff;
+  font: normal normal normal Roboto;
+  letter-spacing: 0.15px;
+  opacity: 1;
+  border:none;
+  justify-content: center;
+  font-size: 15px;
+}
+
+.submit_login:hover
+{
+  cursor: pointer;
+}
+
+
+ .label_login
+{
+  font-size: 40px;
+  color:#fff;
+  margin-left: 1124px;
+  padding-top: 125px;
+  padding-bottom: 10px;
+  font: normal normal normal Roboto;
+  font-weight: 650;
+} 
+
+.last_login
+{
+    display: inline-flex; 
+    align-items: center;
+    margin-left: 112px;
+    margin-top: 20px;
+    font-size: 15px;
+    font-weight: 100;
+    font: normal normal normal Roboto;
+    color: black; 
+}
+
+h5
+{
+  color: black;
+  font-weight: 500;
+  margin-bottom: 0px;
+  font-size: 15px;
+  margin-top: 5px;
+}
+
+.login_login
+{
+  border: none;
+  color: #069BFF;
+  font-weight: 600;
+  font-size: 15px;
+  margin-top: 8.5px;
+  margin-left: 16px;
+  background: none;
+}
+
+.login_login:hover
+{
+  cursor: pointer;
+}
+
+.forgot_pass
+{
+    margin-left: 315px;
+    font-size: 15px;
+    color:#063855;
+    margin-top: 2px;
+    font-weight: 600;
+}
+
+.forgot_pass:hover
+{
+  cursor: pointer;
+  color: #069BFF;
+}
